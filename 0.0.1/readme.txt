@@ -1,4 +1,4 @@
-=== Simple Defaults ===
+=== Genesis Simple Defaults ===
 Contributors: Hit Reach
 Donate Link: 
 Tags: Genesis, Theme, Framework, defaults, favicon, comment, title, image, post image, page image
@@ -31,9 +31,10 @@ If your question is not listed here please look on: [http://www.hitreach.co.uk/w
 == Change Log ==
 = 0.0.1 =
 Initial release with features:
-* Comment Title
-* Default post image
-* Favicon
+
+ * Comment Title
+ * Default post image
+ * Favicon
 
 == Screenshots ==
 
