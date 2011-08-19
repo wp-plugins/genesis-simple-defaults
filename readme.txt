@@ -4,7 +4,7 @@ Donate Link:
 Tags: Genesis, Theme, Framework, defaults, favicon, comment, title, image, post image, page image
 Requires at least: 2.5
 Tested up to: 3.1.2
-Stable Tag: 0.0.1
+Stable Tag: 1.0.0
 
 Simple Defaults allows you to set some of the more common default items in Genesis Theme Frameworks
 
@@ -35,6 +35,9 @@ Initial release with features:
  * Comment Title
  * Default post image
  * Favicon
+
+= 1.0.0 = 
+Repair to the files lost in the plugin repository
 
 == Screenshots ==
 
